@@ -13,7 +13,7 @@ sessions
 
 08.12.2024<br>
 sessions
-![0%](https://progress-bar.xyz/0/?show_text=false&title=0/6&progress_background=ffffff&progress_color=FFB6C1)<br>
+![33%](https://progress-bar.xyz/0/?show_text=false&title=2/6&progress_background=ffffff&progress_color=FFB6C1)<br>
 ![](https://github.com/BlairKirara/study-log/blob/main/atsushi.gif)<br>
 
 
