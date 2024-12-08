@@ -13,7 +13,11 @@ sessions
 
 08.12.2024<br>
 sessions
-![66%](https://progress-bar.xyz/66/?show_text=false&title=4/6&progress_background=ffffff&progress_color=FFB6C1)<br>
+![100%](https://progress-bar.xyz/100/?show_text=false&title=6/6&progress_background=ffffff&progress_color=FFB6C1)<br>
+- notatka o Pascalu
+- notatka o Malebranche
+- notatka o Spinozie
+- notatka o metafizyce Leibniza (zostało o jego zasadach logicznych)
 ![](https://github.com/BlairKirara/study-log/blob/main/atsushi.gif)<br>
 
 
