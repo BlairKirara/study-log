@@ -12,6 +12,8 @@ sessions
 ![](https://github.com/BlairKirara/study-log/blob/main/mone.gif)<br>
 
 08.12.2024<br>
+<br>
+
 sessions
 ![100%](https://progress-bar.xyz/100/?show_text=false&title=6/6&progress_background=ffffff&progress_color=FFB6C1)<br>
  <br>
@@ -23,7 +25,9 @@ co udało mi się zrobić
 <br>
 
 side questy poza sesjami nauki<br>
-- przeczytałam plotkarę 2 do końca (czytaj: siedziałam do 1 AM, a pobudka 6 AM, death)<br>
+- przeczytałam plotkarę 2 do końca (czytaj: siedziałam do 1 AM, a pobudka 6 AM, death)
+<br>
+
 ![](https://github.com/BlairKirara/study-log/blob/main/atsushi.gif)<br>
 
 
