@@ -37,7 +37,8 @@ Rano<br>
 - [ ] Obejrzeć odcinek anime (Bokuben/Bungo/ORB)
 - [ ] Skończyć czytać książkę o Finlandii
 - [ ] Posprzątać kuchnię<br>
-Po południu
+
+Po południu<br>
 - [ ] Spróbować przeczytać książkę o literaturze fińskiej
 - [ ] Poczytać o Jinja i Flask (2 sesja jinja, 1 sesja flask)
 - [ ] Filozofia notatki (2 sesje)
