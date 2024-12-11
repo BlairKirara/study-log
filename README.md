@@ -41,7 +41,7 @@ Rano<br>
 
 Po południu<br>
 - [ ] Spróbować przeczytać książkę o literaturze fińskiej
-- [ ] Poczytać o Jinja i Flask (2 sesja jinja, 1 sesja flask)
+- [ ] Poczytać o Jinja i Flask (1 sesja jinja, 1 sesja flask)
 - [ ] Filozofia notatki (2 sesje)
 - [ ] Automaty (2 sesje)
 - [ ] Japoński (17.10 nadrobić)
