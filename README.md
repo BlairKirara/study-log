@@ -33,6 +33,7 @@ side questy poza sesjami nauki<br>
 12.12.2024<br>
 <br>
 Task list<br>
+<br>
 Rano<br>
 - [ ] Obejrzeć odcinek anime (Bokuben/Bungo/ORB)
 - [ ] Skończyć czytać książkę o Finlandii
