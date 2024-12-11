@@ -50,3 +50,5 @@ Po południu<br>
 13.12.2024<br>
 - [ ] Pojechać do biblioteki
 - [ ] Pojechać po książki na prezent jeśli będą
+- [ ] Załatwić wszystkie prezenty do końca
+
