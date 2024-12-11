@@ -30,4 +30,21 @@ side questy poza sesjami nauki<br>
 
 ![](https://github.com/BlairKirara/study-log/blob/main/atsushi.gif)<br>
 
+12.12.2024<br>
+<br>
+Task list<br>
+Rano<br>
+- [ ] Obejrzeć odcinek anime (Bokuben/Bungo/ORB)
+- [ ] Skończyć czytać książkę o Finlandii
+- [ ] Posprzątać kuchnię
+Po południu
+- [ ] Spróbować przeczytać książkę o literaturze fińskiej
+- [ ] Poczytać o Jinja i Flask (2 sesja jinja, 1 sesja flask)
+- [ ] Filozofia notatki (2 sesje)
+- [ ] Automaty (2 sesje)
+- [ ] Japoński (17.10 nadrobić)
+- [ ] Skończyć piec ciastka
 
+13.12.2024
+- [ ] Pojechać do biblioteki
+- [ ] Pojechać po książki na prezent jeśli będą
