@@ -36,15 +36,15 @@ Task list<br>
 Rano<br>
 - [ ] Obejrzeć odcinek anime (Bokuben/Bungo/ORB)
 - [ ] Skończyć czytać książkę o Finlandii
-- [ ] Posprzątać kuchnię
+- [ ] Posprzątać kuchnię<br>
 Po południu
 - [ ] Spróbować przeczytać książkę o literaturze fińskiej
 - [ ] Poczytać o Jinja i Flask (2 sesja jinja, 1 sesja flask)
 - [ ] Filozofia notatki (2 sesje)
 - [ ] Automaty (2 sesje)
 - [ ] Japoński (17.10 nadrobić)
-- [ ] Skończyć piec ciastka
+- [ ] Skończyć piec ciastka<br>
 
-13.12.2024
+13.12.2024<br>
 - [ ] Pojechać do biblioteki
 - [ ] Pojechać po książki na prezent jeśli będą
